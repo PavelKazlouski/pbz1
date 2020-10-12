@@ -57,7 +57,7 @@ INSERT INTO teacher_subject_group (group_id, subject_id, personal_id, room_numbe
 INSERT INTO teacher_subject_group (group_id, subject_id, personal_id, room_number) VALUES ('17Г', '12П', '222Л', 112);
 INSERT INTO teacher_subject_group (group_id, subject_id, personal_id, room_number) VALUES ('17Г', '22П', '110Л', 220);
 INSERT INTO teacher_subject_group (group_id, subject_id, personal_id, room_number) VALUES ('17Г', '34П', '430Л', 118);
-INSERT INTO teacher_subject_group (group_id, subject_id, personal_id, room_number) VALUES ('12Г', '12П', '222Л', 12);
+INSERT INTO teacher_subject_group (group_id, subject_id, personal_id, room_number) VALUES ('12Г', '12П', '222Л', 112);
 INSERT INTO teacher_subject_group (group_id, subject_id, personal_id, room_number) VALUES ('12Г', '22П', '210Л', 210);
 INSERT INTO teacher_subject_group (group_id, subject_id, personal_id, room_number) VALUES ('10Г', '12П', '222Л', 210);
 INSERT INTO teacher_subject_group (group_id, subject_id, personal_id, room_number) VALUES ('10Г', '22П', '110Л', 210);
